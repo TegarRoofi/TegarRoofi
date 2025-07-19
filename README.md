@@ -119,6 +119,6 @@ Click to explore my latest work!
 
 *Thanks for visiting! Don't forget to ⭐ star some repositories if you find them interesting!*
 
-![Snake animation](https://github.com/TegarRoofi/TegarRoofi/blob/output/github-contribution-grid-snake.svg)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontSize=16)
 
 </div>
