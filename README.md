@@ -83,6 +83,22 @@ print("Always learning, always growing! 🚀")
 ## 💡 Fun Fact
 > Dari SMK di Tebo tapi bermimpi besar di dunia AI! Percaya kalau coding itu seperti fotografi - keduanya tentang menangkap momen yang tepat, melihat detail yang terlewat, dan menciptakan sesuatu yang bermakna dari perspektif unik. 📸✨
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌐 Live Projects & Demos
+Click to explore my latest work!
+
+[![Website](https://img.shields.io/badge/📚_Progres_Tracker_Website-FF6B6B?style=for-the-badge&logoColor=white)](https://your-website-url.com)
+
+
+🔗 More projects coming soon... Stay tuned!
+
+</div>
+
+
+
 ## 🤝 Let's Connect!
 
 <div align="center">
