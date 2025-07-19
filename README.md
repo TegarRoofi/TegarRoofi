@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Tegar Roosfi
+# Hi there! 👋 I'm Tegar Roofi Pangestu
 
 <div align="center">
   
