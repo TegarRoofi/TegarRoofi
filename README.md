@@ -226,8 +226,10 @@ graph LR
 <div align="center">
 
 ### 🐍 Snake Game Animation
-![Snake animation](https://github.com/TegarRoofi/TegarRoofi/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://github.com/TegarRoofi/TegarRoofi/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+### 🐍 Watch my contribution grid snake
+
+![GitHub Snake](https://github.com/TegarRoofi/TegarRoofi/blob/output/github-snake.svg)
+
 
 ### 🔥 Contribution Streak Flame
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TegarRoofi&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=F7931E&fire=F7931E&currStreakLabel=F7931E)](https://git.io/streak-stats)
