@@ -187,7 +187,8 @@ graph LR
 🕐 **Current Time in Jambi:** ![](https://img.shields.io/badge/dynamic/json?color=orange&label=WIB&query=datetime&url=http%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FJakarta&style=flat-square)
 
 ### 🎵 Currently Listening
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=tegarroofi&unique=true)](https://open.spotify.com/user/tegarroofi)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default)](https://open.spotify.com/user/31ycagrld5k2bkx2kn4d3plqk4zy)
+
 
 </div>
 
