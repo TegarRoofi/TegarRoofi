@@ -21,7 +21,8 @@ class TegarRoofi:
         self.role = "SMK Student & Aspiring AI/ML Engineer"
         self.location = "Tebo, Jambi, Indonesia 🇮🇩"
         self.languages = ["Python", "HTML", "CSS", "JavaScript", "PHP", "SQL"]
-        self.passions = ["AI/ML", "Photography", "Problem Solving", "Design"]
+        self.design_tools = ["Photoshop", "Premiere Pro", "Lightroom", "Figma", "CorelDRAW"]
+        self.passions = ["AI/ML", "Photography", "Design", "Video Editing", "Problem Solving"]
         self.current_focus = "Mastering Python & AI/ML Fundamentals"
         
     def say_hi(self):
@@ -51,11 +52,18 @@ Seorang pelajar SMK yang sedang mengejar mimpi menjadi **AI & ML Engineer**! �
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🗄️ Database & Tools
+### 🗄️ Database & Development Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🎨 Design & Creative Tools
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-00A859?style=for-the-badge&logo=coreldraw&logoColor=white)
 
 ### ⚡ Command Line Interface
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -98,8 +106,10 @@ Seorang pelajar SMK yang sedang mengejar mimpi menjadi **AI & ML Engineer**! �
 | 🌟 **Passions** | 📝 **Description** |
 |:---|:---|
 | 📸 **Photography** | Capturing moments and stories through lens |
-| 🎨 **Design** | Creating visual experiences that inspire |
-| ✨ **Photo Editing** | Turning creative ideas into reality |
+| 🎨 **Design & Editing** | Creating visual experiences with Adobe Creative Suite |
+| 🎬 **Video Editing** | Crafting stories through Premier Pro magic |
+| 🖼️ **Photo Manipulation** | Transforming ideas into stunning visuals |
+| 🎯 **UI/UX Design** | Designing intuitive user experiences with Figma |
 | 🧩 **Problem Solving** | Finding elegant solutions to complex challenges |
 | 🤖 **AI/ML Research** | Exploring the future of artificial intelligence |
 
@@ -210,18 +220,51 @@ graph LR
 
 <div align="center">
 
-### 🌟 *"Learning today, building tomorrow, inspiring always"* ✨
+---
 
-![Snake animation](https://github.com/TegarRoofi/TegarRoofi/blob/output/github-contribution-grid-snake.svg)
+## 🎮 Interactive Elements
+
+<div align="center">
+
+### 🐍 Snake Game Animation
+![Snake animation](https://github.com/TegarRoofi/TegarRoofi/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/TegarRoofi/TegarRoofi/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+### 🔥 Contribution Streak Flame
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TegarRoofi&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=F7931E&fire=F7931E&currStreakLabel=F7931E)](https://git.io/streak-stats)
+
+### 📊 3D Contribution Graph
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+### 🎯 Coding Activity Heatmap
+[![Tegar's GitHub Activity Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=TegarRoofi&bg_color=0d1117&color=f7931e&line=f7931e&point=ffffff&area=true&hide_border=true&custom_title=Annual%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🎲 Dynamic Quote Generator
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### ⚡ Metrics Dashboard
+![Metrics](https://metrics.lecoq.io/TegarRoofi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&introduction=1&achievements=1&lines=1&config.timezone=Asia%2FJakarta)
+
+</div>
+
+---
+
+## 🌟 *"Learning today, building tomorrow, inspiring always"* ✨
 
 ### 📊 Profile Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TegarRoofi&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TegarRoofi&theme=github_dark)
+
+### 🏆 Achievement Showcase
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TegarRoofi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TegarRoofi&layout=compact&theme=github_dark&langs_count=10" width="48%" />
+</div>
 
 *Thanks for visiting my profile! Don't forget to ⭐ star some repositories if you find them interesting!*  
 *Let's build the future together, one commit at a time!* 🚀
 
 **Last Updated:** July 2024 📅
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Happy%20Coding!&fontSize=20&fontColor=fff&animation=twinkling)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Happy%20Coding!&fontSize=20&fontColor=fff&animation=twinkling&desc=Keep%20Learning,%20Keep%20Growing!&descAlign=50&descAlignY=75)
 
 </div>
